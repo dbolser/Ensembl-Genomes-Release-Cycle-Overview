@@ -1,0 +1,11 @@
+
+A rough draft of a dependency diagram for the Ensembl Genomes release
+pipeline. Arrows indicate (roughly) 'depends on'. Position (roughly)
+indicates when the activity happens.
+
+Currently there is no distinction between 'loading data' and 'pipeline
+processing', but that could be added quite easily.
+
+A red box indicates (roughly) an entry point into the process (at a
+given time).
+
