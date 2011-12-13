@@ -9,3 +9,11 @@ processing', but that could be added quite easily.
 A red box indicates (roughly) an entry point into the process (at a
 given time).
 
+Note, the timeline is for schematic purposes only, and does not depict
+accurate timing of events.
+
+Phases are used to indicate 'implicit' dependencies. i.e. all
+appropriate tasks from the previous phase should be finished before
+the next phase begins... These deps should probably be made explicit.
+
+
